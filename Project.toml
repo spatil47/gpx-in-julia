@@ -1,0 +1,9 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GPX = "b55ef746-885f-40a4-ab22-c8118be08013"
+GarishPrint = "b0ab02a7-8576-43f7-aa76-eaa7c3897c54"
+Geodesy = "0ef565a4-170c-5f04-8de2-149903a85f3d"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulRecipes = "42071c24-d89e-48dd-8a24-8a12d9b8861f"
+UnitfulUS = "7dc9378f-8956-57ef-a780-aa31cc70ff3d"
